@@ -7,8 +7,10 @@ of Python programming, including basic syntax, data structures, algorithms, and 
 Getting Started
 
 To get started, simply clone this repository to your local machine:
-git clone https://github.com/yourusername/python-exercises.git
+git clone https://github.com/vrojas2/python-exs.git
+
 Prerequisites
+
 Make sure you have Python installed on your machine. You can download and install Python
 from python.org.
 
